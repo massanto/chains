@@ -7032,12 +7032,12 @@
   "faucets": [],
   "infoURL": "https://testnet.airdao.io"
 }, {
-  "name": "PawChain Testnet",
+  "name": "Paw Chain Testnet",
   "chainId": 22331,
   "shortName": "PAW",
   "networkId": 22331,
   "nativeCurrency": {
-    "name": "PawChain",
+    "name": "Paw Chain",
     "symbol": "PAW",
     "decimals": 18
   },
