@@ -1,0 +1,24 @@
+{
+  "name": "PawChain Testnet",
+  "chain": "PawChain",
+  "rpc": ["https://testnet-rpc.pawchain.org"],
+  "faucets": ["https://faucet.pawchain.org"],
+  "nativeCurrency": {
+    "name": "PawChain",
+    "symbol": "PAW",
+    "decimals": 18
+  },
+  "infoURL": "https://pawchain.org",
+  "shortName": "PAW",
+  "chainId": 22331,
+  "networkId": 22331,
+  "icon": "pawchain",
+  "explorers": [
+    {
+      "name": "explorerpawchain",
+      "url": "https://explorer.pawchain.org",
+      "icon": "pawchain",
+      "standard": "EIP3091"
+    }
+  ]
+}
